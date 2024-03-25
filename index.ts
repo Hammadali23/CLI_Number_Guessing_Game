@@ -22,4 +22,4 @@ if(answers.userguessednumber === randomnumber){
     console.log("you guessed wrong number.")
 }
 
-console.log("Thanks")
+console.log("Congratulation")
